@@ -64,6 +64,6 @@ C:\{manga_name}\Volume {volume}\Chapter {chapter}\{title}
 
 ## Acknowledgments
 
-MangaDex for providing amazing manga content.
-Selenium for browser automation.
-WebDriver Manager for simplifying WebDriver setup.
+- MangaDex for providing amazing manga content.
+- Selenium for browser automation.
+- WebDriver Manager for simplifying WebDriver setup.
